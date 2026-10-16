@@ -1,0 +1,16 @@
+name: emaki
+description: Official SDK for emaki (emaki.ai), the Japanese-language AI video generator for Seedance 2.5 and Seedance 2.0. Text-to-video, image-to-video and images with one API key.
+version: 0.1.0
+homepage: https://emaki.ai/?utm_source=pub.dev&utm_medium=package
+repository: https://github.com/hanshs474/emaki-dart
+issue_tracker: https://github.com/hanshs474/emaki-dart/issues
+topics: [video-generation, seedance, ai, text-to-video, image-to-video]
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  http: ^1.2.0
+
+dev_dependencies:
+  test: ^1.25.0
